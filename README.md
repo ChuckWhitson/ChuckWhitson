@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I rode out a hurricane (Hurricane Charley - 2004) in Lynyrd Skynyrd's recording studio.
 -->
 
-Hey there, I'm Chuck!  I'm a geek.
+Hey there, I'm Chuck!  I'm just another average nerd working on things and stuff.
 
-I love woring in DR/BC/IR.
+I love working in DR/BC/IR.
 
 
 ⚡ Fun fact: I rode out a hurricane (Hurricane Charley - 2004) in Lynyrd Skynyrd's recording studio.
