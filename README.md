@@ -1,0 +1,23 @@
+### Howdy Y'all!  👋
+
+<!--
+**ChuckWhitson/ChuckWhitson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I rode out a hurricane (Hurricane Charley - 2004) in Lynyrd Skynyrd's recording studio.
+-->
+
+Hey there, I'm Chuck!  I'm just another average geek working on lots of things and stuff.
+
+I love working in IR/DR/BC.
+
+
+⚡ Fun fact: I rode out a hurricane (Hurricane Charley - 2004) in Lynyrd Skynyrd's recording studio.
