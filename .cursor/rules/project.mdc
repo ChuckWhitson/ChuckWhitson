@@ -1,0 +1,20 @@
+---
+description: "Machine-move brief for ChuckWhitson"
+alwaysApply: true
+---
+
+# ChuckWhitson
+
+- Local path: `C:\SOURCE\ChuckWhitson`. On a new machine, keep this folder name under `C:\SOURCE`.
+- Git: master @ ccb117c. Remote: https://github.com/ChuckWhitson/ChuckWhitson.git.
+- Stack: No recognized root build manifest.
+- What it is: ChuckWhitson/ChuckWhitson is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+- Documented from the local tree on 2026-10-11.
+
+## Work in this tree
+
+- Layout: README.md
+- Build or run: `No root build file. Inspect Layout before running anything.`
+- Do not commit secrets, live firewall or cloud configs, API keys, or private keys. Root name check: None matched at the folder root. Still do not add keys, live configs, or password files.
+- Change only what the task needs. Match the style already in the file you edit.
+- This file is the Cursor brief for rebuilding the developer machine. Prefer README.md when the two disagree.
